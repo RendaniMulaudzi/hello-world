@@ -1,2 +1,1 @@
-# hello-world
-This is my hello world Repository  
+hello i'm a fellow web developer in the process lokking to learn more knowledge about web development, I am a person open to learning new things that will help me reach my goal of being one of the best developers.
